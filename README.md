@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Texmo100 and i'm a software engineer jr.
+- 👋 Hi, I’m @Texmo100 and I'm a software engineer.
 
-- 👀 I’m interested to work in software development industry and create awesome, powerful and beautiful Apps
+- 👀 I’m interested in Web development and Machine Learning
 
-- 🌱 I’m currently learning all related to web development and trying to improve my coding skills constantly.
-
-- 💞️ I’m looking to collaborate on a development team or organization who really cares to create unique and super useful software tools.
+- 🌱 I’m currently learning and improving my coding skills constantly.
 
 - 📫 Contact info:
       - Email: ir.isaac1000@gmail.com
